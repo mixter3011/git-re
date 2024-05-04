@@ -1,5 +1,5 @@
 # Git-Re
-A continuation of the Git-Auto CLI tool. Stages, Adds and commits changes to an existing repository by taking a commit message
+A continuation of the Git-Auto CLI tool. Stages, Adds and commits changes to an existing repository by taking a commit message from the user.
 
 ### Features
 - Stages the Changes made to the directory into the Git pipeline.
@@ -9,7 +9,7 @@ A continuation of the Git-Auto CLI tool. Stages, Adds and commits changes to an 
 ### Usage 
 - First up clone this repo in your root directory
 ``` 
-    git clone https://github.com/yourusername/git-automator.git
+    git clone https://github.com/yourusername/git-re.git
 
 ```
 - Build the Go executable:
