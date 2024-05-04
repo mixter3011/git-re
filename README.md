@@ -1,5 +1,5 @@
 # Git-Re
-A continuation of the Git-Add CLI tool. Stages, Adds and commits changes to an existing repository by taking a commit message
+A continuation of the Git-Auto CLI tool. Stages, Adds and commits changes to an existing repository by taking a commit message
 
 ### Features
 - Stages the Changes made to the directory into the Git pipeline.
